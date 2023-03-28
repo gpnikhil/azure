@@ -1,1 +1,1 @@
-# azure cost export using azure REST API
+# azure python code
