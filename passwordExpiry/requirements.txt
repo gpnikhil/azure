@@ -1,0 +1,13 @@
+certifi==2024.7.4
+cffi==1.17.0
+charset-normalizer==3.3.2
+cryptography==43.0.0
+idna==3.8
+msal==1.30.0
+pycparser==2.22
+PyJWT==2.9.0
+python-http-client==3.3.7
+requests==2.32.3
+sendgrid==6.11.0
+starkbank-ecdsa==2.2.0
+urllib3==2.2.2
